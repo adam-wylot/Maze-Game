@@ -1,0 +1,14 @@
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\obj\Debug\net9.0\StudentEXE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\obj\Debug\net9.0\StudentEXE.AssemblyInfoInputs.cache
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\obj\Debug\net9.0\StudentEXE.AssemblyInfo.cs
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\obj\Debug\net9.0\StudentEXE.csproj.CoreCompileInputs.cache
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\bin\Debug\net9.0\StudentEXE.exe
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\bin\Debug\net9.0\StudentEXE.deps.json
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\bin\Debug\net9.0\StudentEXE.runtimeconfig.json
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\bin\Debug\net9.0\StudentEXE.dll
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\bin\Debug\net9.0\StudentEXE.pdb
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\obj\Debug\net9.0\StudentEXE.dll
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\obj\Debug\net9.0\refint\StudentEXE.dll
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\obj\Debug\net9.0\StudentEXE.pdb
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\obj\Debug\net9.0\StudentEXE.genruntimeconfig.cache
+C:\Users\adamw\Documents\projekty\project_wylot_adam\MazeRPG\obj\Debug\net9.0\ref\StudentEXE.dll
